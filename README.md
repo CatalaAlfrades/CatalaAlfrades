@@ -39,8 +39,8 @@ I believe in **learning by building**. Instead of just taking notes, I am engine
 *Consistency beats intensity. This is my daily progress:*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CatalaAlfrades&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalaAlfrades&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=CatalaAlfrades&theme=tokyonight&hide_border=true" alt="My GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CatalaAlfrades&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <br/>
