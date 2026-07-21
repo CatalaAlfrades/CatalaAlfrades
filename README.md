@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate tech enthusiast currently in intensive preparation to join a **Top-Tier Computer Science Program in China in 2027** (Targeting universities like Tsinghua, Peking, or SJTU). 
+I am a passionate tech enthusiast currently in intensive preparation to join a **Top-Tier Computer Science Program in China in 2027**. 
 
 I believe in **learning by building**. Instead of just taking notes, I am engineering my entire study routine into a real-world software product.
 
